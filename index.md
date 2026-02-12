@@ -15,3 +15,9 @@
 # </ul
 
 ...
+
+### Profile
+
+- **Started**: 02/13/2026
+- **Role**: Software Developer
+- **Hobbies**: Rowing, Reading, and Role-playing
